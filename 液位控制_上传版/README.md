@@ -84,8 +84,6 @@ TB6612 真值表（本工程用到的两行）：
 ├── my_lib/                            外设驱动库（delay / oled / si2c / button）
 ├── startup/                          启动文件
 ├── std_periph_driver/                STM32 标准外设库
-├── 文档/                              硬件与搭建说明、接线图
-└── 备份/                              main.c 的历史版本（按改动阶段）
 ```
 
 ---
